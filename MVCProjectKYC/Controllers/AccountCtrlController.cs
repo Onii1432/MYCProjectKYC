@@ -9,7 +9,7 @@ namespace MVCProjectKYC.Controllers
     public class AccountCtrlController : Controller
     {
         // GET: AccountCtrl
-        public ActionResult Index()
+        public ActionResult AccountList()
         {
             return View();
         }
