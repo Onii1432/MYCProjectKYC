@@ -13,5 +13,10 @@ namespace MVCProjectKYC.Controllers
         {
             return View();
         }
+
+        public ActionResult MasterList()
+        {
+            return View();
+        }
     }
 }
